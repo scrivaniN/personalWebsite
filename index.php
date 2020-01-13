@@ -42,7 +42,7 @@ The above copyright notice and this permission notice shall be included in all c
   <nav class="navbar navbar-expand-lg fixed-top navbar-transparent " color-on-scroll="300">
     <div class="container">
       <div class="navbar-translate">
-      <a class="navbar-brand" href="http://13.59.88.16/index.php" rel="tooltip" title="Nick Scrivani" data-placement="bottom">
+      <a class="navbar-brand" href="http://www.nickscrivani.com/" rel="tooltip" title="Nick Scrivani" data-placement="bottom">
           Nick Scrivani
         </a>
          <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
@@ -54,13 +54,13 @@ The above copyright notice and this permission notice shall be included in all c
       <div class="collapse navbar-collapse justify-content-end" id="navigation">
         <ul class="navbar-nav">
         <li class="nav-item">
-            <a href="http://13.59.88.16/index.php" class="nav-link"><i class="nc-icon nc-spaceship"></i> Home</a>
+            <a href="http://www.nickscrivani.com/" class="nav-link"><i class="nc-icon nc-spaceship"></i> Home</a>
           </li>
         <li class="nav-item">
-            <a href= "http://13.59.88.16/portfolio.php " class="nav-link"><i class="nc-icon nc-book-bookmark"></i> Portfolio</a>
+            <a href= "http://www.nickscrivani.com/portfolio.php " class="nav-link"><i class="nc-icon nc-book-bookmark"></i> Portfolio</a>
           </li>
           <li class="nav-item">
-            <a href=" http://13.59.88.16/resume.php" target="_blank" class="nav-link"><i class="nc-icon nc-paper"></i> Resume</a>
+            <a href=" http://www.nickscrivani.com/resume.php" class="nav-link"><i class="nc-icon nc-paper"></i> Resume</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/Scrivani_N" target="_blank">
@@ -99,7 +99,7 @@ The above copyright notice and this permission notice shall be included in all c
         <h3></h3>
         <br />
         <a href="" class="btn btn-outline-neutral btn-round"> Portfolio</a>
-        <button type="button" class="btn btn-outline-neutral btn-round">Resume</button>
+        <a href="http://www.nickscrivani.com/resume.php" button type="button" class="btn btn-outline-neutral btn-round" >Resume</a>
       </div>
     </div>
   </div>
