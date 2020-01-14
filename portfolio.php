@@ -24,7 +24,7 @@ The above copyright notice and this permission notice shall be included in all c
   <link rel="icon" type="image/png" href="../assets/img//favicon.png">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    Nick Scrivani
+    Portfolio - Nick Scrivani 
   </title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -37,15 +37,15 @@ The above copyright notice and this permission notice shall be included in all c
   <link href="../assets/demo/demo.css" rel="stylesheet" />
 </head>
 
-<body class="landing-page sidebar-collapse">
+<body class="profile-page sidebar-collapse">
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg fixed-top navbar-transparent " color-on-scroll="300">
     <div class="container">
       <div class="navbar-translate">
-      <a class="navbar-brand" href="http://www.nickscrivani.com/" rel="tooltip" title="Nick Scrivani" data-placement="bottom">
+        <a class="navbar-brand" href="http://www.nickscrivani.com/" rel="tooltip" title="Nick Scrivani" data-placement="bottom">
           Nick Scrivani
         </a>
-         <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-bar bar1"></span>
           <span class="navbar-toggler-bar bar2"></span>
           <span class="navbar-toggler-bar bar3"></span>
@@ -53,77 +53,50 @@ The above copyright notice and this permission notice shall be included in all c
       </div>
       <div class="collapse navbar-collapse justify-content-end" id="navigation">
         <ul class="navbar-nav">
-        <li class="nav-item">
+          <li class="nav-item">
             <a href="http://www.nickscrivani.com/" class="nav-link"><i class="nc-icon nc-spaceship"></i> Home</a>
           </li>
-        <li class="nav-item">
-            <a href= "http://www.nickscrivani.com/portfolio.php " class="nav-link"><i class="nc-icon nc-book-bookmark"></i> Portfolio</a>
+          <li class="nav-item">
+            <a href="http://www.nickscrivani.com/portfolio.php" class="nav-link"><i class="nc-icon nc-book-bookmark"></i> Portfolio</a>
           </li>
           <li class="nav-item">
-            <a href=" http://www.nickscrivani.com/resume.php" class="nav-link"><i class="nc-icon nc-paper"></i> Resume</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/Scrivani_N" target="_blank">
-              <i class="fa fa-twitter"></i>
-              <p class="d-lg-none">Twitter</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="Like us on Facebook" data-placement="bottom" href="https://www.facebook.com/nick.scrivani" target="_blank">
-              <i class="fa fa-facebook-square"></i>
-              <p class="d-lg-none">Facebook</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="Follow us on Instagram" data-placement="bottom" href="https://www.instagram.com/scrivani_n/" target="_blank">
-              <i class="fa fa-instagram"></i>
-              <p class="d-lg-none">Instagram</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" rel="tooltip" title="Star on GitHub" data-placement="bottom" href="https://github.com/scrivaniN" target="_blank">
-              <i class="fa fa-github"></i>
-              <p class="d-lg-none">GitHub</p>
-            </a>
+            <a href="http://www.nickscrivani.com/resume.php"  class="nav-link"><i class="nc-icon nc-paper"></i> Resume</a>
           </li>
         </ul>
       </div>
     </div>
   </nav>
   <!-- End Navbar -->
-  <div class="page-header" style="background-image: url('images/sunapee.JPG'); background-size: cover;" >
-    <div class="filter"></div>
-    <div class="container">
-      <div class="motto text-center">
-        <h1>Nick Scrivani</h1>
-        <h3></h3>
-        <br />
-        <a href="http://www.nickscrivani.com/portfolio.php" class="btn btn-outline-neutral btn-round"> Portfolio</a>
-        <a href="http://www.nickscrivani.com/resume.php" button type="button" class="btn btn-outline-neutral btn-round" >Resume</a>
-      </div>
-    </div>
+  <div class="page-header page-header-xs" data-parallax="true" style="background-image: url('images/sunapee.JPG');">
+  <div class="filter"></div>
   </div>
-    <div class="section section-dark text-center">
-      <div class="container">
-        <h2 class="title">Hi I'm Nick!</h2>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="card" style="width: 20rem;">
-              <img class="card-img-top" src="images/nick.jpg" alt="Card img cap">
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="card" style="width: 20rem;">
-              <div class="card-body">
-                Hi! I'm Nick Scrivani. I am a recent Computer Science graduate from Endicott College. 
-              </div>
-            </div>
-          </div>
+  <div class="section profile-content">
+    <div class="container">
+      <div class="owner">
+        <div class="avatar">
+          <img src="images/buoy.png" alt="Rounded Image" class="img-rounded img-no-padding img-responsive">
         </div>
       </div>
+      <br />
+      <div class="row">
+        <div class="col-md-12">
+          <p><b>At Endicott College we were required to complete a senior thesis. My thesis was an enviormental tracking buoy. This buoy tracked air and water temperature, along with
+                humidity and wind speed from the local pond in Endicott's main campus. The data collected by the buoy was broadcasted and stored
+                on a web server hosted by Amazon Web Services, allowing users to track the different types of information throughout the months it was active.
+              </b> 
+          </p> 
+          <br />
+          <p><b>This project was fun and challenging as it allowed me to explore and build something new! If you would like to see the final project please click the link below. </b></p>
+          <br />
+        </div>
+      </div>
+      <div class="motto text-center">
+          <a href="https://www.youtube.com/watch?v=jfyoYuLkos4" target="blank" button type="button" class="btn btn-danger btn-round"><i class="fa fa-play"></i>Watch video</a>
+      </div>
     </div>
   </div>
-  <footer class="footer   footer-white ">
+
+  <footer class="footer    ">
     <div class="container">
       <div class="row">
         <nav class="footer-nav">
@@ -131,6 +104,7 @@ The above copyright notice and this permission notice shall be included in all c
             <li>
               <a href="https://www.linkedin.com/in/nicholas-scrivani-93bb9110a/" target="_blank">Nick Scrivani</a>
             </li>
+          </ul>
         </nav>
         <div class="credits ml-auto">
           <span class="copyright">
