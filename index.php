@@ -115,7 +115,11 @@ The above copyright notice and this permission notice shall be included in all c
           <div class="col-md-6">
             <div class="card" style="width: 20rem;">
               <div class="card-body">
-                Hi! I'm Nick Scrivani. I am a recent Computer Science graduate from Endicott College. 
+                Hi! I'm Nick Scrivani. I am a recent Computer Science graduate from Endicott College.  
+                
+                </br>
+                I have a passion for Information Technology and enjoy wakesurfing, weightlifting and solving problems. My interest in Web Development and Hardware Engineering helped me to create this interesting<a href= "http://www.nickscrivani.com/portfolio.php " style="color: blue"> project</a>. My strong communication
+                skills allow me to effectively collaborate with other team members, making me an asset to any team. Check out my <a href="http://www.nickscrivani.com/resume.php" style="color: blue">resume</a> to see my professional experience. 
               </div>
             </div>
           </div>
