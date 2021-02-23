@@ -88,8 +88,8 @@ The above copyright notice and this permission notice shall be included in all c
         <div class="col-md-8">
           <ul style="list-style-type:disc">
             <b>
-            <li>Maintained a 93% renewal rate for SaaS platform sales</li>
-            <li>Supported 250 subscribers with onboarding, enablement, and best practices</li>
+            <li>Application Team Lead</li>
+            <li>Supported 300+ subscribers with onboarding, enablement, and best practices</li>
             <li>Rolled out 350 windows 10 desktops</li>
             <li>Provided remote desktop support for nationwide team</li>
             <li>Built, verified, and tested server grade computers</li>
@@ -99,7 +99,7 @@ The above copyright notice and this permission notice shall be included in all c
           <br />
         </div>
         <div class="col-md-4" >
-        <p><b>Proficient In:</b></p>
+        <p><b>Experience with:</b></p>
         <ul style="list-style-type:disc">
             <b>
             <li>Windows 7, 10 & MacOS</li>
@@ -108,6 +108,7 @@ The above copyright notice and this permission notice shall be included in all c
             <li>C++</li>
             <li>Python 3</li>
             <li>Java</li>
+            <li>Active Directory</li>
             </b>
           </ul>  
           <br />
@@ -117,7 +118,7 @@ The above copyright notice and this permission notice shall be included in all c
           <h3><b>Work Experience</b></h3>
           <br />
           <h5><b>Rental Beast</b> Somerville, MA</h5>
-          <h6 style="float: right">Aug 2019 - Present</h6>
+          <h6 style="float: right">Aug 2019 - Feb 2021</h6>
           <p><b>Customer Success Specialist</b></p>
           <ul>
             <b>
@@ -126,12 +127,13 @@ The above copyright notice and this permission notice shall be included in all c
             <li>Coordinate customer feedback on product enhancement requests with product management team</li>
             <li>Help compile metrics for monthly management reporting</li>
             <li>Drive customer retention, reduce churn and increase customer satisfaction</li>
+            <li>Team lead providing training and assistance for application support processes</li>
             </b>
           </ul> 
           <br />
           <h5><b>Gorton's Seafood</b> Gloucester, MA
           <h6 style="float: right">Aug 2018 - Dec 2018</h6>
-          <p><b>Inforamtion Technology Intern</b></p>
+          <p><b>Information Technology Intern</b></p>
           <ul>
             <b>
             <li>Reviewed incoming support tickets, triage, and assign helpdesk engineering support</li>
